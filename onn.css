@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 80px;
+}
+#increment-btn{
+    width: 300px;
+    height: 80px;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: hotpink;
+    font-size: 48px;
+}
+#save-btn{
+    width: 300px;
+    height: 80px;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: skyblue;
+    font-size: 48px;
+}
+#save-el{
+    font-size: 50px;
+    font-weight: bold;
+}
+#welcome-el{
+    font-size: 30px;
+}
